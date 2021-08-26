@@ -26,11 +26,10 @@ npm install --save-dev hardhat
 npx hardhat
 ```
 
-***
-**Note**
 
+>**Note**
 This comand won't work with git bash
-***
+
 
 ## Demo
 Check out the full Docs of Hardhat [here](https://hardhat.org/getting-started/)
