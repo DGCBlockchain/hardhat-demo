@@ -59,7 +59,7 @@ This means we can use predeployed Smart Contracts on the fantom testnet chain an
 
 This makes the tests stateless and flexible
 
-As example for using predeployed test can be found in the last test of token-test.js
+As example for using predeployed test can be found in the last test of token-test.js.
 
 The Token contract is deployed on the fantom testnet blockchain and in this test we transfer 20 tokens from owner to addr1. 
 In the background the fantom testnet chain is forked and the test is run against the smart contract with all current states included. Now the transfer method is tested and the state of the smart contract will only change on the forked fantom testnet version.
